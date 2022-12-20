@@ -25,3 +25,4 @@ heapq.heapify(heap)
 print(heap)
 print(heapq.heappop(heap))
 print(heapq.heappop(heap))
+
